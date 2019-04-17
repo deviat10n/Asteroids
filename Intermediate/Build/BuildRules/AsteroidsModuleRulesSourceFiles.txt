@@ -1,0 +1,3 @@
+D:\Unreal\Asteroids\Source\Asteroids\Asteroids.Build.cs
+D:\Unreal\Asteroids\Source\Asteroids.Target.cs
+D:\Unreal\Asteroids\Source\AsteroidsEditor.Target.cs

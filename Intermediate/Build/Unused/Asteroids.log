@@ -1,0 +1,10 @@
+﻿  Performing full C++ include scan (building a new target)
+  Creating makefile for Asteroids (no existing makefile)
+  Parsing headers for Asteroids
+    Running UnrealHeaderTool "D:\Unreal\Asteroids\Asteroids.uproject" "D:\Unreal\Asteroids\Intermediate\Build\Win32\Asteroids\DebugGame\Asteroids.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for Asteroids in 20.1687897 seconds
+  Performing 13 actions (4 in parallel)
+  [3/13] Resource PCLaunch.rc
+ERROR : UBT error : Failed to produce item: D:\Unreal\Asteroids\Binaries\Win32\Asteroids-Win32-DebugGame.exe
+  Total build time: 56.67 seconds (Local executor: 0.00 seconds)
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.MakeFile.Targets(44,5): error MSB3075: The command "D:\Unreal\UE_4.16\Engine\Build\BatchFiles\Build.bat Asteroids Win32 DebugGame "D:\Unreal\Asteroids\Asteroids.uproject" -waitmutex" exited with code 5. Please verify that you have sufficient rights to run this command.

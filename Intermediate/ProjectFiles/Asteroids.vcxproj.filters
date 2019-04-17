@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Asteroids.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{2B1B1F2F-8823-41D9-8383-32F1AC05F082}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Asteroids.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\AsteroidsEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{246732AE-B200-4D9D-950B-1D1B7C8A9A49}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Asteroids">
+      <UniqueIdentifier>{C759E236-FC8C-4645-A373-A897DBC49D97}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Asteroids\Asteroid.cpp">
+      <Filter>Source\Asteroids</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Asteroids\Asteroid.h">
+      <Filter>Source\Asteroids</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Asteroids\Asteroids.Build.cs">
+      <Filter>Source\Asteroids</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Asteroids\Asteroids.cpp">
+      <Filter>Source\Asteroids</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Asteroids\Asteroids.h">
+      <Filter>Source\Asteroids</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Asteroids\AsteroidsGameModeBase.cpp">
+      <Filter>Source\Asteroids</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Asteroids\AsteroidsGameModeBase.h">
+      <Filter>Source\Asteroids</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Asteroids\BasicCameraController.cpp">
+      <Filter>Source\Asteroids</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Asteroids\BasicCameraController.h">
+      <Filter>Source\Asteroids</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Asteroids\SpaceshipPawn.cpp">
+      <Filter>Source\Asteroids</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Asteroids\SpaceshipPawn.h">
+      <Filter>Source\Asteroids</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\Asteroids\HeadsUpDisplay.h">
+      <Filter>Source\Asteroids</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Asteroids\SpaceshipProjectile.h">
+      <Filter>Source\Asteroids</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Asteroids\UFO.h">
+      <Filter>Source\Asteroids</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Asteroids\MyFirstHUD.h">
+      <Filter>Source\Asteroids</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Asteroids\MyPlayerState.h">
+      <Filter>Source\Asteroids</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\Asteroids\HeadsUpDisplay.cpp">
+      <Filter>Source\Asteroids</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Asteroids\SpaceshipProjectile.cpp">
+      <Filter>Source\Asteroids</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Asteroids\UFO.cpp">
+      <Filter>Source\Asteroids</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Asteroids\MyFirstHUD.cpp">
+      <Filter>Source\Asteroids</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Asteroids\MyPlayerState.cpp">
+      <Filter>Source\Asteroids</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
